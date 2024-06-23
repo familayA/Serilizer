@@ -1,0 +1,32 @@
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\bin\Debug\net8.0\p2.exe
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\bin\Debug\net8.0\p2.deps.json
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\bin\Debug\net8.0\p2.runtimeconfig.json
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\bin\Debug\net8.0\p2.dll
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\bin\Debug\net8.0\p2.pdb
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\p2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\p2.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\p2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\p2.dll
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\refint\p2.dll
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\p2.pdb
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\p2.genruntimeconfig.cache
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\obj\Debug\net8.0\ref\p2.dll
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\bin\Debug\net8.0\HtmlTags.json
+C:\Users\user1\Documents\תכנות חני שנה ב\practicode\p2\p2\bin\Debug\net8.0\HtmlVoidTags.json
+C:\Users\user1\Documents\computer\copyPracti\p2\bin\Debug\net8.0\p2.exe
+C:\Users\user1\Documents\computer\copyPracti\p2\bin\Debug\net8.0\HtmlTags.json
+C:\Users\user1\Documents\computer\copyPracti\p2\bin\Debug\net8.0\HtmlVoidTags.json
+C:\Users\user1\Documents\computer\copyPracti\p2\bin\Debug\net8.0\p2.deps.json
+C:\Users\user1\Documents\computer\copyPracti\p2\bin\Debug\net8.0\p2.runtimeconfig.json
+C:\Users\user1\Documents\computer\copyPracti\p2\bin\Debug\net8.0\p2.dll
+C:\Users\user1\Documents\computer\copyPracti\p2\bin\Debug\net8.0\p2.pdb
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\p2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\p2.AssemblyInfo.cs
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\p2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\p2.dll
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\refint\p2.dll
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\p2.pdb
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\p2.genruntimeconfig.cache
+C:\Users\user1\Documents\computer\copyPracti\p2\obj\Debug\net8.0\ref\p2.dll
